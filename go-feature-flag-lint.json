@@ -6,14 +6,14 @@
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "8b523d87c03306254fa6a46cc284f39d52ef8760f836d41e95d1d62ac39950a8"
+            "hash": "edf9af0465d54a6eb8c19523753d9e7ceecf90bc435d9b81571731f2c3491fe2"
         },
         "64bit": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-lint_1.10.2_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "6cbc5069275eced4e938045d6d216a1053ed08b7de19763aa181a7175a51a093"
+            "hash": "66cda93560f89b70e275f22cedfaf9199157eba12dd9e494c87290ac377bfc00"
         }
     },
     "homepage": "https://gofeatureflag.org",
