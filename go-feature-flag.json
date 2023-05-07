@@ -2,18 +2,18 @@
     "version": "1.10.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-lint_1.10.2_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-migration-cli_1.10.2_Windows_i386.tar.gz",
             "bin": [
                 "go-feature-flag-migration-cli.exe"
             ],
-            "hash": "0b53c93d1c9557457d9ba8923b78931c891451550073122227ab28c1258a389f"
+            "hash": "6029914411938162cab94f43296cc3d27f2747751f018f6b606bd224edec6ee2"
         },
         "64bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-lint_1.10.2_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-migration-cli_1.10.2_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-migration-cli.exe"
             ],
-            "hash": "0ed993dbc2f8df79f01b45ef22c06a75e3cfe783f607423ef435485cfb651dc5"
+            "hash": "4b612c0394d2a8830e9771a966bab8e3bc191466f07954c9f97e432eb0bb1259"
         }
     },
     "homepage": "https://gofeatureflag.org",
