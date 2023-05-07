@@ -6,14 +6,14 @@
             "bin": [
                 "go-feature-flag-relay-proxy.exe"
             ],
-            "hash": "7a199f9710d2e71f77bf4c400a6daf7f50b7e71908d9307c5ce7ff1dacdc93bc"
+            "hash": "e6bd94d4701497de32d9355ae06a097aac602658ac36426798a882eb0cb2fd65"
         },
         "64bit": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-relay-proxy_1.10.2_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-relay-proxy.exe"
             ],
-            "hash": "39b1f38e8ce088f512ace1ec46f0565e0d309e5a9618e364cabf2b8113dd7b52"
+            "hash": "b5bc21d630ce1c0374fd35127c3fc651ffb48cb4e0c440ea229b02335ec28004"
         }
     },
     "homepage": "https://gofeatureflag.org",
