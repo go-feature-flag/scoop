@@ -1,0 +1,21 @@
+{
+    "version": "1.10.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-migration-cli_1.10.2_Windows_i386.tar.gz",
+            "bin": [
+                "go-feature-flag-migration-cli.exe"
+            ],
+            "hash": "622bd7ffb4ef0f250b287fa219494b5fa054c2507d387c1e2404ed86ea48adc8"
+        },
+        "64bit": {
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-migration-cli_1.10.2_Windows_x86_64.tar.gz",
+            "bin": [
+                "go-feature-flag-migration-cli.exe"
+            ],
+            "hash": "c5d997f78725d71d24be35fb2b73f7cac467374767a93feb9f05eaa3e1ee5468"
+        }
+    },
+    "homepage": "https://gofeatureflag.org",
+    "license": "MIT"
+}
