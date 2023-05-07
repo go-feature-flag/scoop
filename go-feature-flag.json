@@ -2,18 +2,18 @@
     "version": "1.10.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-migration-cli_1.10.2_Windows_i386.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-relay-proxy_1.10.2_Windows_i386.tar.gz",
             "bin": [
-                "go-feature-flag-migration-cli.exe"
+                "go-feature-flag-relay-proxy.exe"
             ],
-            "hash": "6029914411938162cab94f43296cc3d27f2747751f018f6b606bd224edec6ee2"
+            "hash": "7a199f9710d2e71f77bf4c400a6daf7f50b7e71908d9307c5ce7ff1dacdc93bc"
         },
         "64bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-migration-cli_1.10.2_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.10.2/go-feature-flag-relay-proxy_1.10.2_Windows_x86_64.tar.gz",
             "bin": [
-                "go-feature-flag-migration-cli.exe"
+                "go-feature-flag-relay-proxy.exe"
             ],
-            "hash": "4b612c0394d2a8830e9771a966bab8e3bc191466f07954c9f97e432eb0bb1259"
+            "hash": "39b1f38e8ce088f512ace1ec46f0565e0d309e5a9618e364cabf2b8113dd7b52"
         }
     },
     "homepage": "https://gofeatureflag.org",
