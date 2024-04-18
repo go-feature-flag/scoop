@@ -6,21 +6,21 @@
             "bin": [
                 "go-feature-flag.exe"
             ],
-            "hash": "b3a59038bebc58c111ee840bfad6200171ce2b8cdc5e708d09407992f695f7fb"
+            "hash": "0fff8b2bc91fc0c90f1f780d5717ef5ca0fa5d6451e7526c5a1d1af3dd1232f3"
         },
         "64bit": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.26.0/go-feature-flag_1.26.0_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag.exe"
             ],
-            "hash": "c3eeb2f906cbc70854b07561f2469d5eb1affbcce79ddb8e7b21983880be8728"
+            "hash": "06fd943ee90354a6b30e4f6325c8826c73462da630b05574591d219b70ca3e8e"
         },
         "arm64": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.26.0/go-feature-flag_1.26.0_Windows_arm64.tar.gz",
             "bin": [
                 "go-feature-flag.exe"
             ],
-            "hash": "8af8cfd25c042684bb3efce9eb6d8386d24cf5d7d57260d566f360392b6a3698"
+            "hash": "153871c98789c82587b0ea2769370cc8578145c710a5105c5364d39d05e8d84a"
         }
     },
     "homepage": "https://gofeatureflag.org",
