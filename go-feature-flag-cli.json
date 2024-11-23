@@ -6,21 +6,21 @@
             "bin": [
                 "go-feature-flag-cli.exe"
             ],
-            "hash": "20b82bfc170f67fb5d78e88c2243c5230597d5af37365a5fcd06e1fc7d68771c"
+            "hash": "e97fc2575647c903a1d65a43cf03c0baa6efb90b6bcf2d011de70597c981a400"
         },
         "64bit": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.39.0/go-feature-flag-cli_1.39.0_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-cli.exe"
             ],
-            "hash": "a6507b7e3652ad876ec8149bd93870528562581529e6aa75cab24f9f11aee0e4"
+            "hash": "b57afb088a2318dbc7d3d35ef48fe8dc22b6f1439ef6f765760b529ab28abe6e"
         },
         "arm64": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.39.0/go-feature-flag-cli_1.39.0_Windows_arm64.tar.gz",
             "bin": [
                 "go-feature-flag-cli.exe"
             ],
-            "hash": "2ddd3cdde668c5f7aea411c1fedc7797ce0277ddaf24a09eee295fcf3bb87e9b"
+            "hash": "f8bc222742f8157976e02fb966c3a968f14ca29bc66a0b480f71a5133bae6df3"
         }
     },
     "homepage": "https://gofeatureflag.org/docs/tooling/cli",
