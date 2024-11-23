@@ -6,21 +6,21 @@
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "8e325ddb075e92f7d9fc6e9172260bdaec8e92288b37412f4d16c43e4c2326ec"
+            "hash": "577b6459a91d8887130c7124466d19f257e5678ffa8abdf7ea5a0a4f6e4a7a50"
         },
         "64bit": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.39.0/go-feature-flag-lint_1.39.0_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "0ff4c10e770559c9f38cc77cc224d158738fd38d66a5065737f2e881a67a6ecf"
+            "hash": "d50723d1c8f35392f02fb30094220b26c36f026042875c578e23f85fdb050c24"
         },
         "arm64": {
             "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.39.0/go-feature-flag-lint_1.39.0_Windows_arm64.tar.gz",
             "bin": [
                 "go-feature-flag-lint.exe"
             ],
-            "hash": "ecc87dc1fb64990c789087dedcadecc1f93fe0e4fe1ddacdac76752a6f51dc75"
+            "hash": "cb07c9d7fdac1db306cf5812b8a772cb02003dfe5969d8421b9f142fdb72aa3a"
         }
     },
     "homepage": "https://gofeatureflag.org/docs/tooling/linter",
