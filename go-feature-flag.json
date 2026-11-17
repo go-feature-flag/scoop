@@ -1,26 +1,26 @@
 {
-    "version": "1.58.1",
+    "version": "1.59.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.58.1/go-feature-flag_1.58.1_Windows_i386.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.59.0/go-feature-flag_1.59.0_Windows_i386.tar.gz",
             "bin": [
                 "go-feature-flag.exe"
             ],
-            "hash": "f3e16422c44e4e3af1518c18c3f74a097c1aadc2d3d85d0dd66be2b9064bd153"
+            "hash": "d512185db9fce53187c5bd322f45a06d9263f97d04c7f3b6b180d8ac8cad7fa0"
         },
         "64bit": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.58.1/go-feature-flag_1.58.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.59.0/go-feature-flag_1.59.0_Windows_x86_64.tar.gz",
             "bin": [
                 "go-feature-flag.exe"
             ],
-            "hash": "ffd269adc1fd8da8f0ccac8cfd10095262466ae69489983d9a96b39a1364ca0f"
+            "hash": "27fa0d7b0fcc8e2c39c4d57cf9f52befcfe51339a384657ff30218ab444436b2"
         },
         "arm64": {
-            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.58.1/go-feature-flag_1.58.1_Windows_arm64.tar.gz",
+            "url": "https://github.com/thomaspoignant/go-feature-flag/releases/download/v1.59.0/go-feature-flag_1.59.0_Windows_arm64.tar.gz",
             "bin": [
                 "go-feature-flag.exe"
             ],
-            "hash": "7b2f4113ace3af67bf9e4e8d3d0ef39bb22954fbb335135daca2f7783c98abe5"
+            "hash": "5d3faa8cbf62bb2a03fc30e5ba729c15bd2a68181a7b65d628f35c50372a18ea"
         }
     },
     "homepage": "https://gofeatureflag.org/docs/relay_proxy",
